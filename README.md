@@ -7,6 +7,8 @@ The goal is to map different forest types using spectral data.
 A Deep learning classifier is used to classify land into 4 categories (water,
 forest, farm, impervious).
 
+[Full Report](https://www.dropbox.com/s/4ja5y7f2h473s0p/Predicting%20Forest%20Type%20using%20Deep%20Learning.pdf?dl=0).
+
 ## What is NDVI ?
 
 The Normalized Difference Vegetation Index (NDVI) is a graphical indicator that is used to analyze remote sensing data which is collected via satellites or planes.
